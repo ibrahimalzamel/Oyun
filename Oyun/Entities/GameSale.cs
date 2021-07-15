@@ -10,6 +10,5 @@ namespace Oyun.Entities
         public int Id { get; set; }
         public string GameName { get; set; }
         public double GamePrice { get; set; }
-
     }
 }
