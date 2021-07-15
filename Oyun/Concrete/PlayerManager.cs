@@ -27,6 +27,7 @@ namespace Oyun.Concrete
             }
         }
 
+
         public override void Delete(Player player)
         {
             Console.WriteLine("ID : " + player.Id + player.FirstName + " : Kayıt  Silendi ");
