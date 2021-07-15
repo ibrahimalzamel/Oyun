@@ -18,8 +18,6 @@ namespace Oyun
 
         static void Main(string[] args)
         {
-           
-
 
             BaseCustomerManager playerCustomerManager = new PlayerManager(new MernisServiceAdapter());
             playerCustomerManager.Add(new Player
