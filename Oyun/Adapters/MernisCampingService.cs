@@ -13,6 +13,7 @@ namespace Oyun.Adapters
             Console.WriteLine("ID : " + campaing.Id + campaing.FirstName + " : Kampanya Silindi");
         }
 
+
         public void CampaignUpdate(Campaing campaing)
         {
             Console.WriteLine("ID : " + campaing.Id + campaing.FirstName + " : Kampanya  Güncelledi");
