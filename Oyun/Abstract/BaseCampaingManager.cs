@@ -12,6 +12,7 @@ namespace Oyun.Abstract
             Console.WriteLine();
         }
 
+
         public virtual void CampaignUpdate(Campaing campaing)
         {
             Console.WriteLine(" Kampanya Güncelledi");
